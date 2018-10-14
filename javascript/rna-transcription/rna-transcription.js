@@ -15,4 +15,4 @@ const toRna = (dnaStrand) => {
     });
 }
 
-export {toRna};
+export { toRna };
